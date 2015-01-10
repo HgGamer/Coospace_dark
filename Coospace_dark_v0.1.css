@@ -1,0 +1,328 @@
+/* version : 0.1*/
+a{
+color:#ffffff;
+}
+
+#header3 {
+background-color : #2B2B2B ;
+}
+
+#header{
+height: 10px;
+}
+
+body {
+font-size: 15px;
+font-family: 'Open Sans', sans-serif;
+width: 100%;
+background-color : #2B2B2B ;
+background-image: url('http://forums.joe.to/styles/char/theme/images/bg.png');
+background-position: center top;
+}
+
+#footer {
+clear: both;
+margin-top: -40px;
+color: #93938F;
+font-size: 12px;
+line-height: 40px;
+overflow: hidden;
+background-color:rgba(0, 0, 0, 0);
+}
+
+table.monthcalendar tr.week td.day a {
+color: #93938F;
+}
+
+table.monthcalendar tr.week td.today {
+text-align: center;
+vertical-align: middle;
+width: 28px;
+background-color: #ffffff;
+border-radius: 15px;
+}
+
+table.monthcalendar {
+font-size: 12px;
+table-layout: fixed;
+width: 100%;
+border-spacing: 0;
+border-collapse: collapse;
+background-color: #2B2B2B;
+}
+
+ul.bigvmenu {
+list-style: none;
+background: #2B2B2B;
+}
+
+ul.bigvmenu li a {
+display: block;
+padding: 9px 8px;
+text-decoration: none;
+color: #93938F;
+}
+
+#header {
+background-color: rgba(250, 250, 250, 0.0);
+}
+div.currentday {
+overflow: hidden;
+height: 40px;
+padding: 10px 0;
+color: #93938F;
+background: #2B2B2B;
+}
+
+aside.left h2 {
+font-family: 'Open Sans';
+margin-top: 30px;
+font-size: 16px;
+color: #93938F;
+background-color: #2B2B2B;
+padding: 5px;
+text-transform: uppercase;
+}
+
+ul.bigvmenu li.current.editable.renaming div.buttons input[type=button] {
+  margin-left: 5px;
+  background-color: #1a1a22;
+  color: white;
+}
+
+ul.bigvmenu li.current a:hover { 
+  background-color: #2B2B2B;
+  color: white;
+  border-bottom: 0px solid #2B2B2B;
+}
+
+ul.bigvmenu li.current {
+  background-color: #2B2B2B;
+  color: white;
+  border-bottom: 0px solid #2B2B2B;
+}
+
+div.externalcalendar {
+padding-top: 0px; 
+padding-bottom: 0px;
+height: 0px;
+}
+
+div.externalcalendar a {
+margin-right: -5px;
+visibility: hidden;
+}
+
+ul.bigvmenu li span.info {
+color: #93938F;
+}
+
+#breadcrumb2 {
+visibility: hidden; 
+height: 10px;
+}
+
+section.scenes ul {
+list-style: none;
+color : #93938F ;
+background-color: #2B2B2B;
+}
+
+section.scenes a.name {
+color: #93938F;
+background-image: url('');
+}
+
+
+section.scenes > ul.list li.scene > ul.list li.scene a.name.N {
+color: #93938F;
+background-image: url('');
+}
+
+section.scenes h2 > a {
+color: #93938F;
+background-color: #2B2B2B;
+}
+
+section.scenes h2{
+border-bottom: 1px solid #FFFFFF;
+}
+
+section.scenes{
+color: #93938F;
+background-color: #2B2B2B;
+}
+
+#searchbar {
+  background-color: #2B2B2B;
+  color: #93938F;
+}
+
+#searchbar a {
+  background-color: #2B2B2B;
+  color: #93938F;
+}
+#searchbar a:hover {
+  background-color: #2B2B2B;
+  color: #93938F;
+}
+#searchbar a.current {
+  background-color: #2B2B2B;
+  color: #93938F;
+}
+
+section.scenes li > div:hover{
+  background-color: #2B2B2B;
+  color: #93938F;
+}
+
+
+section.scenes a.name:hover{
+	color: #93938F;
+}
+
+#scenetreecontainer{
+	background-color: #2B2B2B;
+}
+
+#header3 > ul > li.menu_scenes {
+background-image: url('');
+background-color: #2B2B2B;
+}
+
+#header3 > ul > li.menu_folder {
+ background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_calendar {
+background-image: url('');
+ background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_assignment {
+  background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_notes {
+  background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_csms {
+  background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_quiz {
+  background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_glossary {
+background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 > ul > li.menu_trainer {
+background-image: url('');
+  background-color: #2B2B2B;
+}
+#header3 {
+width: 880px;
+}
+
+#header3 > ul > li > a{
+line-height: 20px;
+padding-top: 20px;
+color: #494949;
+}
+
+#header3 > ul > li:hover > a {
+  color: #ffffff;
+}
+
+
+#header3 > ul > li.menu_scenes:hover {
+background-image: url('');
+background-color: #93938F;
+}
+#header3 > ul > li.menu_folder:hover {
+ background-image: url('');
+  background-color: #93938F;
+}
+#header3 > ul > li.menu_calendar:hover {
+background-image: url('');
+ background-color: #93938F;
+}
+#header3 > ul > li.menu_assignment:hover {
+  background-image: url('');
+  background-color: #93938F;
+}
+#header3 > ul > li.menu_notes:hover {
+  background-image: url('');
+  background-color: #93938F;
+}
+#header3 > ul > li.menu_csms :hover{
+  background-image: url('');
+  background-color: #93938F;
+}
+#header3 > ul > li.menu_quiz:hover {
+  background-image: url('');
+  background-color: #93938F;
+}
+#header3 > ul > li.menu_glossary:hover {
+background-image: url('');
+  background-color: #93938F;
+}
+#header3 > ul > li.menu_trainer :hover{
+background-image: url('');
+  background-color: #93938F;
+}
+
+h1 span.filter a {
+color: #ffffff;
+}
+
+div.info_empty {
+background-color: #2B2B2B;
+color: #93938F;
+}
+div.createnewitems {
+color: #93938F;
+}
+aside.left a.headerbutton:hover{
+color: #FFFFFF;
+}
+
+
+ul.bigvmenu li a[style="background-image: url(/$Theme-edu3$/Content/Theme/new/m_ahovajelentkezhetek.png)"]{ 
+  background-image: none !important;
+}
+
+
+h1 a.imagebutton24{
+visibility : hidden;
+}
+
+#widecontent > section > div.icon{
+visibility : hidden;
+}
+
+.control{
+background-color: #2B2B2B;
+}
+#calendar_main > div.calendar-list-view{
+background-color: #2B2B2B;
+}
+
+.calendar-list-view div.dayhead.today{
+color: #FFFFFF;
+border-bottom: 1px solid #ffffff;
+}
+#calendar_main{
+background-color: #2B2B2B;
+}
+
+.calendar-list-view div.dayhead{
+border-bottom: 1px solid #93938F;
+color: #93938F;
+}
+
+h1 a.imagebutton35{
+visibility : hidden;
+}
